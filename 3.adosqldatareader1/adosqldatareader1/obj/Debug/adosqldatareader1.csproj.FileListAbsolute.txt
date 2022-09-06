@@ -1,0 +1,64 @@
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+C:\Users\Decoy\Desktop\ado c#\adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\ResolveAssemblyReference.cache
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+F:\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\ResolveAssemblyReference.cache
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+D:\Education Drive\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csprojResolveAssemblyReference.cache
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+C:\Users\Anandkumar\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csprojResolveAssemblyReference.cache
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+C:\Users\roota\Desktop\MyMaterials\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csprojResolveAssemblyReference.cache
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+C:\Users\Decoy\Desktop\Desktop Backup\ado c# latest\12.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.exe
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.pdb
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.exe
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\bin\Debug\adosqldatareader1.pdb
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csprojResolveAssemblyReference.cache
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Form1.resources
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.Properties.Resources.resources
+C:\Users\Decoy\Desktop\C# Code\ADO C#\3.adosqldatareader1\adosqldatareader1\obj\Debug\adosqldatareader1.csproj.GenerateResource.Cache
